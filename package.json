@@ -1,0 +1,20 @@
+{
+    "title": "Panda Night",
+    "name": "panda-night",
+    "description": "Panda Night theme for Brackets",
+    "version": "1.0.0",
+    "author": "Phil Reichner <p.reichner@pandadigitalagency.com>",
+    "homepage": "https://github.com/PandaDigital/panda-night.git",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/PandaDigital/panda-night.git"
+    },
+    "engines": {
+        "brackets": ">=0.42.0"
+    },
+    "theme": {
+        "file": "panda-night.css",
+        "dark": true
+    },
+    "screenshot": "panda-night-screenshot-css.png"
+}
